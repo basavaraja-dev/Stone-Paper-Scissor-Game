@@ -5,7 +5,7 @@ A simple Python command-line game where the user plays Stone Paper Scissor again
 ## Features
 
 * Random computer choice
-* 3 attempts per game
+* 5 attempts per game
 * User and Computer score tracking
 * Win, Lose, and Tie detection
 * Input validation
